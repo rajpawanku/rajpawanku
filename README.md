@@ -67,15 +67,19 @@
 
 
 <p align="left">
+     <a href="https://github.com/priyankadora20/blessed-toes-567" target="blank">
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=MealDeal Clone &color=FD3A5C&logo=hotjar&logoColor=FFFFFF&label=" alt="Weather-App" />
+    </a>
     <a href="https://github.com/rajpawanku/Mytheresa" target="blank">
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Mytheresa Clone&color=000000&logo=Nike&logoColor=FFFFFF&label=" alt="Nike-Clone" />
+    </a>
+    <a href="https://github.com/rajpawanku/OutLook" target="blank">
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=OutLook &color=1BB91F&logo=tmux&logoColor=61DAFB&label=" alt="OutLook" />
     </a>
     <a href="https://github.com/rajpawanku/Unit2ProjectBewakoof" target="blank">
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Bewakoof &color=1BB91F&logo=tmux&logoColor=FFFFFF&label=" alt="Mini-Store" />
     </a>
-    <a href="https://github.com/rajpawanku/News-app" target="blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=News App &color=FD3A5C&logo=hotjar&logoColor=FFFFFF&label=" alt="Weather-App" />
-    </a>
+   
 </p>
 <br>
 
@@ -119,18 +123,16 @@
 
 
 <p>
+    <a href="https://github.com/priyankadora20/blessed-toes-567">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=priyankadora20&repo=blessed-toes-567&locale=en&border_radius=0&theme=dark" alt="rajpawanku" />
+    </a>
     <a href="https://github.com/rajpawanku/Mytheresa">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rajpawanku&repo=Mytheresa&locale=en&border_radius=0&theme=dark" alt="rajpawanku" />
     </a>
     <a href="https://github.com/rajpawanku/Unit2ProjectBewakoof">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rajpawanku&repo=Unit2ProjectBewakoof&locale=en&border_radius=0&theme=dark" alt="rajpawanku" />
     </a>
-    <a href="https://github.com/rajpawanku/News-app">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rajpawanku&repo=News-app&locale=en&border_radius=0&theme=dark" alt="rajpawanku" />
-    </a>
     <a href="https://github.com/rajpawanku/OutLook">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rajpawanku&repo=OutLook&locale=en&border_radius=0&theme=dark" alt="rajpawanku" />
-    </a>
-    
-    
+    </a> 
 </p>
